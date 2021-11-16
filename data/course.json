@@ -1,0 +1,67 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Business",
+      "Real Estate"
+    ],
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Fine Arts",
+      "Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fb7c1f09-5fbc-cf01-a1f6-0c666e433d97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Urban Design Seminar",
+  "course_description": "This seminar focuses on understanding the role of high-quality design as a tool to address urban social problems. This course will also examine marginalized spaces and how urban design can intervene as a tool to creatively challenge traditional urban design practices.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.244",
+  "primary_course_number": "11.333",
+  "learning_resource_types": [
+    "Design Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
